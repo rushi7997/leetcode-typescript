@@ -1,5 +1,5 @@
-import run1 from './solutions/1';
+import run2 from './solutions/2';
 
-run1();
+run2();
 
 
