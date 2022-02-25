@@ -1,3 +1,3 @@
-import run4 from './solutions/4';
+import run6 from './solutions/6';
 
-run4();
+run6();
